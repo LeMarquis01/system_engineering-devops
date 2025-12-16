@@ -1,4 +1,0 @@
-#!/bin/bash
-# Print the absolute path name of the current working directory.
-# Use pwd -P to prefer the physical (absolute) path and resolve symlinks when supported.
-$(pwd)
